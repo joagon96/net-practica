@@ -30,10 +30,13 @@ C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\Data.DB.dll
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\Business.Entities.pdb
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\Business.Logic.pdb
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\Data.DB.pdb
-C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.exe
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.pdb
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.AplicationForm.resources
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache

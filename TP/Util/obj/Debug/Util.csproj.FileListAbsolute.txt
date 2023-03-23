@@ -3,3 +3,9 @@ C:\Users\PC\Desktop\NET practica\U2\Lab1\TP\Util\bin\Debug\Util.pdb
 C:\Users\PC\Desktop\NET practica\U2\Lab1\TP\Util\obj\Debug\Util.csprojAssemblyReference.cache
 C:\Users\PC\Desktop\NET practica\U2\Lab1\TP\Util\obj\Debug\Util.dll
 C:\Users\PC\Desktop\NET practica\U2\Lab1\TP\Util\obj\Debug\Util.pdb
+C:\Users\PC\Desktop\net-practica\TP\Util\bin\Debug\Util.dll
+C:\Users\PC\Desktop\net-practica\TP\Util\bin\Debug\Util.pdb
+C:\Users\PC\Desktop\net-practica\TP\Util\obj\Debug\Util.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\TP\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\net-practica\TP\Util\obj\Debug\Util.dll
+C:\Users\PC\Desktop\net-practica\TP\Util\obj\Debug\Util.pdb

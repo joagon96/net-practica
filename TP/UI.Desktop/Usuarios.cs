@@ -21,13 +21,13 @@ namespace UI.Desktop
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Listar();
+            this.Listar();
         }
 
         public void Listar()
         {
             UsuarioLogic ul = new UsuarioLogic();
-            ul.GetAll();
+            this.dvgUsuarios.DataSource = ul.GetAll();
         }
 
         private void btnActualizar_Click(object sender, EventArgs e)
@@ -38,6 +38,11 @@ namespace UI.Desktop
         private void btnSalir_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void dvgUsuarios_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

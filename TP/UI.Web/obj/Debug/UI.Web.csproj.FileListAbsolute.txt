@@ -171,7 +171,8 @@ C:\Users\PC\Desktop\net-practica\TP\UI.Web\bin\Business.Entities.pdb
 C:\Users\PC\Desktop\net-practica\TP\UI.Web\bin\Business.Logic.pdb
 C:\Users\PC\Desktop\net-practica\TP\UI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\PC\Desktop\net-practica\TP\UI.Web\bin\Data.DB.pdb
-C:\Users\PC\Desktop\net-practica\TP\UI.Web\obj\Debug\UI.Web.csprojAssemblyReference.cache
 C:\Users\PC\Desktop\net-practica\TP\UI.Web\obj\Debug\UI.Web.csproj.CopyComplete
 C:\Users\PC\Desktop\net-practica\TP\UI.Web\obj\Debug\UI.Web.dll
 C:\Users\PC\Desktop\net-practica\TP\UI.Web\obj\Debug\UI.Web.pdb
+C:\Users\PC\Desktop\net-practica\TP\UI.Web\obj\Debug\UI.Web.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\TP\UI.Web\obj\Debug\UI.Web.csproj.CoreCompileInputs.cache
