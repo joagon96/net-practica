@@ -21,3 +21,19 @@ C:\Users\PC\Desktop\NET practica\U2\Lab3\TP\UI.Desktop\obj\Debug\UI.Desktop.exe
 C:\Users\PC\Desktop\NET practica\U2\Lab3\TP\UI.Desktop\obj\Debug\UI.Desktop.pdb
 C:\Users\PC\Desktop\NET practica\U2\Lab3\TP\UI.Desktop\bin\Debug\Data.DB.dll
 C:\Users\PC\Desktop\NET practica\U2\Lab3\TP\UI.Desktop\bin\Debug\Data.DB.pdb
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\Data.DB.dll
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\bin\Debug\Data.DB.pdb
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
