@@ -188,6 +188,7 @@ namespace UI.Desktop
             this.txtClave.Name = "txtClave";
             this.txtClave.Size = new System.Drawing.Size(208, 20);
             this.txtClave.TabIndex = 12;
+            this.txtClave.UseSystemPasswordChar = true;
             // 
             // txtApellido
             // 
@@ -209,6 +210,7 @@ namespace UI.Desktop
             this.txtConfirmarClave.Name = "txtConfirmarClave";
             this.txtConfirmarClave.Size = new System.Drawing.Size(208, 20);
             this.txtConfirmarClave.TabIndex = 15;
+            this.txtConfirmarClave.UseSystemPasswordChar = true;
             // 
             // btnAceptar
             // 
@@ -218,6 +220,7 @@ namespace UI.Desktop
             this.btnAceptar.TabIndex = 16;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // btnCancelar
             // 
@@ -227,6 +230,7 @@ namespace UI.Desktop
             this.btnCancelar.TabIndex = 17;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // UsuarioDesktop
             // 
