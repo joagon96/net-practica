@@ -23,4 +23,5 @@ C:\Users\PC\Desktop\net-practica\TP\UI.Consola\bin\Debug\Data.DB.pdb
 C:\Users\PC\Desktop\net-practica\TP\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete
 C:\Users\PC\Desktop\net-practica\TP\UI.Consola\obj\Debug\UI.Consola.exe
 C:\Users\PC\Desktop\net-practica\TP\UI.Consola\obj\Debug\UI.Consola.pdb
-C:\Users\PC\Desktop\net-practica\TP\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\TP\UI.Consola\obj\Debug\UI.Consola.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\TP\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache

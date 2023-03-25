@@ -26,8 +26,16 @@ namespace UI.Desktop
 
         public void Listar()
         {
-            UsuarioLogic ul = new UsuarioLogic();
-            this.dvgUsuarios.DataSource = ul.GetAll();
+            try
+            {
+                UsuarioLogic ul = new UsuarioLogic();
+                this.dvgUsuarios.DataSource = ul.GetAll();
+            }
+            catch (Exception ex)
+            {
+                string msg = "error al listar usuarios: " + ex.Message; 
+                MessageBox.Show(msg, "error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void btnActualizar_Click(object sender, EventArgs e)
