@@ -22,5 +22,4 @@ C:\Users\PC\Desktop\net-practica\TP\Business.Logic\bin\Debug\Data.DB.pdb
 C:\Users\PC\Desktop\net-practica\TP\Business.Logic\obj\Debug\Business.Logic.csproj.CopyComplete
 C:\Users\PC\Desktop\net-practica\TP\Business.Logic\obj\Debug\Business.Logic.dll
 C:\Users\PC\Desktop\net-practica\TP\Business.Logic\obj\Debug\Business.Logic.pdb
-C:\Users\PC\Desktop\net-practica\TP\Business.Logic\obj\Debug\Business.Logic.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\net-practica\TP\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\net-practica\TP\Business.Logic\obj\Debug\Business.Logic.csprojAssemblyReference.cache
