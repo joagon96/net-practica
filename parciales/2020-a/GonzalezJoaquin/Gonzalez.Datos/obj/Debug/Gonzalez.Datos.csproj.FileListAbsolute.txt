@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\net-practica\parciales\2020-a\GonzalezJoaquin\Gonzalez.Datos\bin\Debug\Gonzalez.Datos.dll
+C:\Users\PC\Desktop\net-practica\parciales\2020-a\GonzalezJoaquin\Gonzalez.Datos\bin\Debug\Gonzalez.Datos.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2020-a\GonzalezJoaquin\Gonzalez.Datos\bin\Debug\Gonzalez.Entitdades.dll
+C:\Users\PC\Desktop\net-practica\parciales\2020-a\GonzalezJoaquin\Gonzalez.Datos\bin\Debug\Gonzalez.Entitdades.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2020-a\GonzalezJoaquin\Gonzalez.Datos\obj\Debug\Gonzalez.Datos.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\parciales\2020-a\GonzalezJoaquin\Gonzalez.Datos\obj\Debug\Gonzalez.Datos.csproj.CopyComplete
+C:\Users\PC\Desktop\net-practica\parciales\2020-a\GonzalezJoaquin\Gonzalez.Datos\obj\Debug\Gonzalez.Datos.dll
+C:\Users\PC\Desktop\net-practica\parciales\2020-a\GonzalezJoaquin\Gonzalez.Datos\obj\Debug\Gonzalez.Datos.pdb
