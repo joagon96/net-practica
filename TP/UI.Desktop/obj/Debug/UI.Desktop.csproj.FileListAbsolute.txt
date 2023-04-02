@@ -38,5 +38,4 @@ C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.pdb
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.AplicationForm.resources
 C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
-C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\net-practica\TP\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache

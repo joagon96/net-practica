@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Utiles\bin\Debug\Gonzalez.Utiles.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Utiles\bin\Debug\Gonzalez.Utiles.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Utiles\obj\Debug\Gonzalez.Utiles.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Utiles\obj\Debug\Gonzalez.Utiles.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Utiles\obj\Debug\Gonzalez.Utiles.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Negocio\bin\Debug\Gonzalez.Negocio.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Negocio\bin\Debug\Gonzalez.Negocio.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Negocio\bin\Debug\Gonzalez.Datos.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Negocio\bin\Debug\Gonzalez.Entitdades.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Negocio\bin\Debug\Gonzalez.Datos.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Negocio\bin\Debug\Gonzalez.Entitdades.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Negocio\obj\Debug\Gonzalez.Negocio.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Negocio\obj\Debug\Gonzalez.Negocio.csproj.CopyComplete
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Negocio\obj\Debug\Gonzalez.Negocio.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-b\Gonzalez\Gonzalez.Negocio\obj\Debug\Gonzalez.Negocio.pdb
