@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\bin\Debug\Gonzalez.Escritorio.exe.config
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\bin\Debug\Gonzalez.Escritorio.exe
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\bin\Debug\Gonzalez.Escritorio.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\bin\Debug\Gonzalez.Entidades.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\bin\Debug\Gonzalez.Negocio.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\bin\Debug\Gonzalez.Datos.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\bin\Debug\Gonzalez.Entidades.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\bin\Debug\Gonzalez.Negocio.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\bin\Debug\Gonzalez.Datos.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\obj\Debug\Gonzalez.Escritorio.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\obj\Debug\Gonzalez.Escritorio.frmPrincipal.resources
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\obj\Debug\Gonzalez.Escritorio.Lista.resources
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\obj\Debug\Gonzalez.Escritorio.Properties.Resources.resources
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\obj\Debug\Gonzalez.Escritorio.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\obj\Debug\Gonzalez.Escritorio.csproj.CopyComplete
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\obj\Debug\Gonzalez.Escritorio.exe
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Escritorio\obj\Debug\Gonzalez.Escritorio.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Utiles\bin\Debug\Gonzalez.Utiles.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Utiles\bin\Debug\Gonzalez.Utiles.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Utiles\bin\Debug\Gonzalez.Datos.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Utiles\bin\Debug\Gonzalez.Entidades.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Utiles\bin\Debug\Gonzalez.Datos.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Utiles\bin\Debug\Gonzalez.Entidades.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Utiles\obj\Debug\Gonzalez.Utiles.csproj.CopyComplete
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Utiles\obj\Debug\Gonzalez.Utiles.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Utiles\obj\Debug\Gonzalez.Utiles.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Utiles\obj\Debug\Gonzalez.Utiles.csprojAssemblyReference.cache

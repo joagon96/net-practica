@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Entidades\bin\Debug\Gonzalez.Entidades.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Entidades\bin\Debug\Gonzalez.Entidades.pdb
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Entidades\obj\Debug\Gonzalez.Entidades.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Entidades\obj\Debug\Gonzalez.Entidades.dll
+C:\Users\PC\Desktop\net-practica\parciales\2017-rec\Gonzalez\Gonzalez.Entidades\obj\Debug\Gonzalez.Entidades.pdb
